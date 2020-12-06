@@ -17,7 +17,7 @@
     "url": "https://github.com/lambor590"
   },
   "homepage": "",
-  "repository": "github:eritislami/erit-ytdl",
+  "repository": "github:lambor590/ytdl-core-discord-fix",
   "license": "Apache-2.0",
   "dependencies": {
     "@types/node": "^14.14.2",
